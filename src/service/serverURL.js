@@ -1,1 +1,1 @@
-export const serverURL = "https://resume-builder-backend-w66d.onrender.com" 
+export const serverURL = "https://resume-builder-1bwv.onrender.com" 
